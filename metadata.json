@@ -1,0 +1,6 @@
+{
+  "name": "Gnapakam - Telugu Voice & Memory Studio",
+  "description": "Convert emotional Telugu quotes and monologues to speech with Gemini 3.8 Flash TTS, cinematic ambient soundscapes, voice design, and multi-speaker dialogues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
